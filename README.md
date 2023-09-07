@@ -1,4 +1,4 @@
-- Hi, I’m @sindhuvaishnavi0001.
+- Hi, I’m @satyavaishnavi0001
 - I’m interested in becoming a programmer.
 - I’m currently studying B.E. CSE, First Year.
 - I’m looking to collaborate on any Scratch Projects and basic C projects.
