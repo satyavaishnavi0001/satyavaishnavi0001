@@ -1,8 +1,9 @@
 - Hi, I’m @satyavaishnavi0001
-- I’m interested in becoming a programmer.
-- I’m currently studying B.E. CSE, First Year.
-- I’m looking to collaborate on any Scratch Projects and basic C projects.
-- You can reach me on sindhuvaishnavi5@gmail.com .
+- At present, I am undertaking training with the aim of becoming a programmer.
+- I’m currently pursuing First Year B.E. in Computer Science and Engineering.
+- I want to collaborate on any Scratch Projects and basic C projects.
+- I am a fast learner when it comes to acquiring new knowledge. 
+- You can reach me at sindhuvaishnavi5@gmail.com.
 
 <!---
 sindhuvaishnavi0001/sindhuvaishnavi0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
