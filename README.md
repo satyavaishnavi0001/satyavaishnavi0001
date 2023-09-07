@@ -1,6 +1,6 @@
-- Hi, I’m @satyavaishnavi0001
-- At present, I am undertaking training with the aim of becoming a programmer.
-- I’m currently pursuing First Year B.E. in Computer Science and Engineering.
+- Hi, I’m @satyavaishnavi0001!
+- At present, I am undertaking training to become a programmer.
+- I’m currently pursuing a First Year B.E. in Computer Science and Engineering.
 - I want to collaborate on any Scratch Projects and basic C projects.
 - I am a fast learner when it comes to acquiring new knowledge. 
 - You can reach me at sindhuvaishnavi5@gmail.com.
